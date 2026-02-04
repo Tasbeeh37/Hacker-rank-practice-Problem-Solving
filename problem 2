@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        
+         
+        /*int  num1 = 42;
+        int num2 = 100;
+        int num3 = 125;*/
+        
+        int a = scan.nextInt();
+      System.out.println(a);
+      
+      int b = scan.nextInt();
+      System.out.println(b);
+      
+      int c = scan.nextInt();
+      System.out.println(c);
+      
+                
+        scan.close();
+        // Complete this line
+        // Complete this line
+    }
+}
